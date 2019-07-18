@@ -12,7 +12,7 @@ class Helpers
     else
       return false
     end
-  end
+  
   
   
 end
